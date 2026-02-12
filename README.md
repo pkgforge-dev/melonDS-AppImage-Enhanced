@@ -1,10 +1,10 @@
 <div align="center">
 
-# melonDS-AppImage 🐧
+# melonDS-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/melonDS-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/melonDS-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/melonDS-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/melonDS-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/melonDS-AppImage)](https://github.com/pkgforge-dev/melonDS-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/melonDS-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/melonDS-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/melonDS-AppImage-Enhanced)](https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/melonDS-emu/melonDS/master/res/icon/melon_128x128.png" width="128" />
@@ -12,7 +12,7 @@
 
 | Latest Stable Release | Latest Nightly Relase | Upstream URL |
 | :---: | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/melonDS-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/melonDS-AppImage/releases/tag/nightly) | [Click here](https://github.com/melonDS-emu/melonDS) |
+| [Click here](https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/tag/nightly) | [Click here](https://github.com/melonDS-emu/melonDS) |
 
 </div>
 
