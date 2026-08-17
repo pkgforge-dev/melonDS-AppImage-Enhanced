@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/melonDS-emu/melonDS/master/res/icon/melon_128x128.png" width="128" />
 </p>
 
-| Latest Stable Release | Latest Nightly Relase | Upstream URL |
+| Latest Stable Release | Latest Nightly Release | Upstream URL |
 | :---: | :---: | :---: |
 | [Click here](https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/tag/nightly) | [Click here](https://github.com/melonDS-emu/melonDS) |
 
