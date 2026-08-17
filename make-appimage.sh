@@ -13,6 +13,8 @@ export DESKTOP=/usr/share/applications/net.kuribo64.melonDS.desktop
 # Deploy dependencies
 quick-sharun /usr/bin/melonDS
 
+# Additional changes can be done in between here
+
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
 
